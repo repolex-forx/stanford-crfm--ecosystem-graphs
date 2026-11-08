@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/stanford-crfm/ecosystem-graphs/commit/576655a544c974e91b7ca02e26cf7ba4c8347516",
       "git:hexsha": "576655a544c974e91b7ca02e26cf7ba4c8347516",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
